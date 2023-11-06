@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: (https://github.com/Mbungai-Francesco/Clipboard_page)
+- Solution URL: (https://www.frontendmentor.io/solutions/flexbox-margin-blthEszAb_)
+- Live Site URL: (https://mbungai-francesco.github.io/Clipboard_page/)
 
 ## My process
 
